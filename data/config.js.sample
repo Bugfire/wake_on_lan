@@ -1,0 +1,7 @@
+module.exports = {
+    timezone : 'Asia/Tokyo',
+    schedule : '58 8 * * *',
+    hosts : [
+        //Mac addresses
+    ],
+};

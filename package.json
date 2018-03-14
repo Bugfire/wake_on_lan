@@ -1,0 +1,19 @@
+{
+  "name": "wake_on_lan",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bugfire/wake_on_lan.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">= 0.12.7"
+  },
+  "scripts": {
+    "test": "nodeunit index.js"
+  },
+  "dependencies": {
+    "cron": "^1.0.9",
+    "wake_on_lan": "0.0.4"
+  }
+}
